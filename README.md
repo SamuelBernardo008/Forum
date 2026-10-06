@@ -125,4 +125,4 @@ Este projeto está sob a licença [MIT](LICENSE).
 Desenvolvido por **Samuel Bernardo** 👋
 
 - **GitHub:** [SamuelBernardo008](https://github.com/SamuelBernardo008)
-- **LinkedIn:** [Samuel Bernardo Rodrigues](www.linkedin.com/in/samuelbernardo008)
+- **LinkedIn:** [Samuel Bernardo Rodrigues](https://www.linkedin.com/in/samuelbernardo008/?isSelfProfile=true)
